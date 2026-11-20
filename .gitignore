@@ -1,0 +1,10 @@
+# Ejecutables y objetos
+*.exe
+*.o
+*.out
+# Datos generados por el programa
+*.csv
+# Editor / SO
+.vscode/
+Thumbs.db
+.DS_Store
